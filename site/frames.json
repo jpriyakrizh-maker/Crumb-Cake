@@ -1,0 +1,27 @@
+{
+  "slug": "crumb",
+  "background": "#F5EDE2",
+  "delogo": "delogo=x=1852:y=1032:w=56:h=32",
+  "clips": {
+    "build": {
+      "src": "hero-build.mp4", "start": 0, "end": 6.3,
+      "segs": [[0, 0.9, 16], [0.9, 1.6, 36], [1.6, 2.2, 20], [2.2, 2.8, 36], [2.8, 3.6, 30], [3.6, 4.3, 16], [4.3, 6.3, 30]],
+      "desk": [1600, 11], "phone": [540, 5], "phone_cx": [[0, 960]], "phone_crop": 720, "grade": false
+    },
+    "crown": {
+      "src": "ganache-pour.mp4", "start": 0, "end": 6.8,
+      "segs": [[0, 0.5, 16], [0.5, 3.4, 20], [3.4, 5.0, 40], [5.0, 6.8, 24]],
+      "desk": [1600, 12], "phone": [600, 5.5], "phone_cx": [[0, 975]], "phone_crop": 1080, "grade": false
+    },
+    "slice": {
+      "src": "slice-cut.mp4", "start": 0, "end": 4.6,
+      "segs": [[0, 4.6, 24]],
+      "desk": [1600, 9], "phone": [600, 4.5], "phone_cx": [[0, 1150]], "phone_crop": 1080, "grade": false
+    },
+    "box": {
+      "src": "box-close.mp4", "start": 0, "end": 4.6,
+      "segs": [[0, 0.8, 16], [0.8, 3.1, 30], [3.1, 4.6, 24]],
+      "desk": [1600, 8], "phone": [600, 4], "phone_cx": [[0, 1180]], "phone_crop": 1080, "grade": false
+    }
+  }
+}
